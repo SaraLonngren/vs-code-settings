@@ -10,7 +10,7 @@
   "files.trimFinalNewlines": true,
 
   // Aplica linhas verticais para lembrar de quebrar linha em códigos muito grandes
-  "editor.rulers": [90, 120],
+  "editor.rulers": [120],
   "editor.formatOnSave": false,
 
   //Habilita localizar os arquivos
